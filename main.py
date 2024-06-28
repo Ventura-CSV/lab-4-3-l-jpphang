@@ -8,8 +8,8 @@ def main():
     totla = 0
     
     for numbers in numbers:
+        total = total + numbers
         
-
 
 
     # total = sum(numbers)
