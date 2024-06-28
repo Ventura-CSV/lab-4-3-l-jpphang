@@ -5,7 +5,7 @@ def main():
     for i in range(len(numbers)):
         numbers[i] = int(input('Enter a value:'))
         
-    totla = 0
+    total = 0
     
     for numbers in numbers:
         total = total + numbers
@@ -15,9 +15,6 @@ def main():
     # total = sum(numbers)
     print(total)
 
-    ########################################
-    # Do not delete the return statement
-    ########################################
     return total, numbers
 
 
