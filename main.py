@@ -7,13 +7,10 @@ def main():
         
     totla = 0
     
-    for numbers in numbers 
+    for numbers in numbers:
+        
 
-    """
-    ########################################
-    Code Your Program here
-    ########################################
-    """
+
 
     # total = sum(numbers)
     print(total)
