@@ -3,7 +3,7 @@ def main():
 
     numbers = [0] * 5
     for i in range(len(numbers)):
-        numbers[i] = int(input('Enter a value: '))
+        numbers[i] = int(input('Enter a value:'))
         
     totla = 0
     
