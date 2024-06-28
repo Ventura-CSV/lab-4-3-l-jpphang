@@ -7,8 +7,8 @@ def main():
         
     total = 0
     
-    for numbers in numbers:
-        total = total + numbers
+    for number in numbers:
+        total += number
         
 
 
